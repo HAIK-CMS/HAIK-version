@@ -1,3 +1,10 @@
 {
-  "$schema": "./schema.json"
+  "$schema": "./schema.json",
+  "latest": {
+    "version": "8.0.0",
+    "description": "test",
+    "github_release_url": "https://github.com/HAIK-CMS/HAIK-version/blob/main/version.json",
+    "update_request_url": "https://github.com/HAIK-CMS/HAIK-version/blob/main/version.json",
+    "released_at": "2025-03-24T23:40:00+09:00"
+  }
 }
